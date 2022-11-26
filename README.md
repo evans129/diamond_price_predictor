@@ -4,4 +4,4 @@ This is a App app made using an ML algorithm and deployed using Streamlit
 
 
 
-![alt](model_photo.png)
+![alt](app_photo.png)
